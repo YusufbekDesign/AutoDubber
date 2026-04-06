@@ -20,7 +20,7 @@ TEMP_DIR = "temp_files"
 os.makedirs(TEMP_DIR, exist_ok=True)
 
 # Maksimal video hajmi (MB)
-MAX_VIDEO_SIZE_MB = 50
+MAX_VIDEO_SIZE_MB = 1024
 
 # FFmpeg yo'li
 FFMPEG_PATH = "ffmpeg"
