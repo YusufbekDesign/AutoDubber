@@ -1,7 +1,7 @@
 import os
 
 # Telegram Bot Token
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8054989710:AAHIM-fYa9ZMEz9OfPUQLb3qD0T4WRize18")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Whisper model - "tiny", "base", "small", "medium", "large"
 # "base" - tez va yetarlicha aniq
